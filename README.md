@@ -15,7 +15,7 @@ import cv2
 
 Steps:
 1. Load a image 
-2. convert it to RBG
+2. convert it to Gray
 3. Load haarcascade file for face recognition
 4. Apply it using sliding window menthod
 5. apply a square box for detected area
